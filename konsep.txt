@@ -1,0 +1,14 @@
+Pembuatan konsep produk aplikasi berbasis web mencakup :
+
+    Gambaran produk secara umum
+        Mendeskripsikan secara ringkas Konsep produk yang akan dibuat, bagaimana goals yang akan dituju.
+    Deskripsi / Sasaran Pengguna
+        Menjelaskan Entitas pengguna yang akan memakai produk. Jenis pengguna dan apa yang bisa dilakukan pengguna dengan produk yang dibuat.
+    Workflow Penggunaan Aplikasi
+        Tahapan pengguna dalam mengoperasikan produk (menjelaskan use case)
+    Spesifikasi Aplikasi
+        Menjelaskan Fitur serta Batasan-batasan pada produk
+    Desain Aplikasi (kerangka desain : optional)
+        Pembuatan desain layout, bisa dalam bentuk image, atau menggunakan Wireframe Tools.
+    Prototype Tampilan (dalam bentuk HTML)
+        Konversi desain kedalam syntak HTML.
